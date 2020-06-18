@@ -8,3 +8,6 @@ $date = Carbon::now();
 
 echo $date->toDayDateTimeString();
 ?>
+
+<br>
+Esto viene despues del Break
